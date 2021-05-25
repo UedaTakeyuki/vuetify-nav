@@ -1,4 +1,4 @@
-# vue-faui-user-fe-sample
+# vuetify-nav
 
 ## Project setup
 ```
