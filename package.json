@@ -1,13 +1,22 @@
 {
   "name": "vuetify-nav",
   "version": "1.0.0",
-  "private": true,
+  "description": "Navigation menu components for vuetify",
+  "author": "Dr Takeyuki UEDA",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "build-bundle": "vue-cli-service build --target lib --name vuetify-nav --formats umd ./src/build-entry.js",
     "build-serve": "npx serve -s dist",
     "lint": "vue-cli-service lint"
   },
+  "main": "./dist/vuetify-nav.umd.js",
+  "files": [
+    "dist/*",
+    "src/components/Navbar.vue",
+    "src/build-entry.js"
+  ],
   "dependencies": {
     "core-js": "^2.6.5",
     "qrcode-of-this-site": "^1.0.5",
