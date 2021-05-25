@@ -1,29 +1,26 @@
-# vuetify-nav
+# Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus
 
-## Project setup
-```
-npm install
-```
+## Install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+```bash:
+npm install vue-faui-user-fe 
 
-### Compiles and minifies for production
-```
-npm run build
+# or
+
+yarn add vue-faui-user-fe
 ```
 
-### Run your tests
-```
-npm run test
-```
+## How to setup
+refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav-fe/wiki/How-to-setup)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Demo
+Demo site is available at [here](https://vue-faui-user-fe-sample.uedasoft.com/).
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Q&A
+Github [issues](https://github.com/UedaTakeyuki/vuetify-nav/issues) are available. Any questions, suggestions, request, and reports are welcome!
+
+## Author
+[Dr. Takeyuki UEDA](https://atelierueda.uedasoft.com/)
+
+## History
+- 1.0.0  2021.05.25 first version.
