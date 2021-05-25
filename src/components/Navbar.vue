@@ -5,8 +5,7 @@
 
       <slot name="title">
         <v-toolbar-title class="grey--text">
-          <span class="font-weight-light">{{titleStr}}</span>
-          <span>Title</span>
+          <span>{{titleStr}}</span>
         </v-toolbar-title>
       </slot>
       <slot name="menu">
