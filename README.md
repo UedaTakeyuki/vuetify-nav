@@ -1,5 +1,11 @@
 # Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus
 
+Provide Toolbar with Navigation drawer and drop down menu as follows:
+
+<img src="https://github.com/UedaTakeyuki/vue-faui-user-fe/blob/main/img/ss.2021-05-26_22.28.01.png" width="30%"/>
+<img src="https://github.com/UedaTakeyuki/vue-faui-user-fe/blob/main/img/ss.2021-05-26_22.28.54.png" width="30%"/>
+<img src="https://github.com/UedaTakeyuki/vue-faui-user-fe/blob/main/img/ss.2021-05-26_22.29.04.png" width="30%"/>
+
 ## Install
 
 ```bash:
