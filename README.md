@@ -14,8 +14,35 @@ npm install vue-faui-user-fe
 yarn add vue-faui-user-fe
 ```
 
+## How to use
+Just set ``<Navbar/>`` component with the application title string as ``titleStr`` and navigation links as ``links`` as follows:
+
+```vue:
+<template>
+  <v-app>
+    <Navbar titleStr="Demo App" :links="links" />
+  </v-app>
+</template>
+
+<script>
+import {Navbar} from 'vuetify-nav'
+export default {
+  components: { Navbar},
+  data: () => ({
+    links: [
+      { icon: 'home', text: 'Home', route: '/'},
+      { icon: 'face', text: 'Account', route: '/account'},
+      { icon: 'shop', text: 'Purchase', route: '/purchase'},
+    ]
+  }),
+};
+</script>
+```
+
+for more detail refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav/wiki/How-to-use)
+
 ## How to setup
-refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav-fe/wiki/How-to-setup)
+refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav/wiki/How-to-setup)
 
 ## Demo
 Demo site is available at [here](https://vue-faui-user-fe-sample.uedasoft.com/).
