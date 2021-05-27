@@ -1,6 +1,6 @@
 {
   "name": "vuetify-nav",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Navigation menu components for vuetify",
   "author": "Dr Takeyuki UEDA",
   "keywords": [
@@ -30,7 +30,6 @@
     "src/build-entry.js"
   ],
   "dependencies": {
-    "core-js": "^2.6.5",
     "qrcode-of-this-site": "^1.0.5",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
