@@ -1,1 +1,2 @@
 2021.05.25 separate from vue-faui-user-fe
+2021.05.27 remove redundant files
