@@ -2,7 +2,7 @@
 
 Provide Toolbar with Navigation drawer and drop down menu as follows:
 
-<img src="https://github.com/UedaTakeyuki/vuetify-nav/blob/main/img/ss.2021-05-26_22.28.01.png" width="30%"/> <img src="https://github.com/UedaTakeyuki/vuetify-nav/blob/main/img/ss.2021-05-26_22.28.54.png" width="30%"/> <img src="https://github.com/UedaTakeyuki/vuetify-nav/blob/main/img/ss.2021-05-26_22.29.04.png" width="30%"/>
+<img src="https://github.com/UedaTakeyuki/vuetify-nav/blob/main/img/ss.2021-05-28_8.26.04.png" width="90%"/> <img src="https://github.com/UedaTakeyuki/vuetify-nav/blob/main/img/ss.2021-05-28_8.25.43" width="90%"/> <img src="https://github.com/UedaTakeyuki/vuetify-nav/blob/main/img/ss.2021-05-28_8.26.18" width="90%"/>
 
 ## Install
 
