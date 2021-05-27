@@ -17,7 +17,7 @@ yarn add vue-faui-user-fe
 ## How to use
 Just set ``<Navbar/>`` component to your ``App.vue`` file as follows:
 
-```vue:{3,8,10,12-16}
+```vue:
 <template>
   <v-app>
     <Navbar titleStr="Demo App" :links="links" />
@@ -39,10 +39,8 @@ export default {
 </script>
 ```
 
-for more detail refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav/wiki/How-to-use)
+for more detail refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav/wiki/Users-Guide)
 
-## How to setup
-refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav/wiki/How-to-setup)
 
 ## Demo
 Demo site is available at [here](https://vue-faui-user-fe-sample.uedasoft.com/).
