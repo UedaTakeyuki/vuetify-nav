@@ -15,9 +15,9 @@ yarn add vue-faui-user-fe
 ```
 
 ## How to use
-Just set ``<Navbar/>`` component with the application title string as ``titleStr`` and navigation links as ``links`` as follows:
+Just set ``<Navbar/>`` component to your ``App.vue`` file as follows:
 
-```vue:
+```vue:{3,8,10,12-16}
 <template>
   <v-app>
     <Navbar titleStr="Demo App" :links="links" />
