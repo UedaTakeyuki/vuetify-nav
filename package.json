@@ -3,6 +3,14 @@
   "version": "1.0.2",
   "description": "Navigation menu components for vuetify",
   "author": "Dr Takeyuki UEDA",
+  "keywords": [
+    "vue",
+    "vuetify",
+    "toolbar",
+    "navigation drawer",
+    "menu",
+    "qr code"
+  ],
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
