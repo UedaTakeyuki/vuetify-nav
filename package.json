@@ -1,6 +1,6 @@
 {
   "name": "vuetify-nav",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Navigation menu components for vuetify",
   "author": "Dr Takeyuki UEDA",
   "keywords": [
@@ -11,6 +11,10 @@
     "menu",
     "qr code"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UedaTakeyuki/vuetify-nav.git"
+  },
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
