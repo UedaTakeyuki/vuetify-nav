@@ -1,4 +1,4 @@
-# Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus
+# Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus, and QR code
 
 Provide Toolbar with Navigation drawer and drop down menu as follows:
 
