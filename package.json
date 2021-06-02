@@ -1,6 +1,6 @@
 {
   "name": "vuetify-nav",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Navigation menu components for vuetify",
   "author": "Dr Takeyuki UEDA",
   "keywords": [
@@ -25,6 +25,7 @@
   },
   "main": "./dist/vuetify-nav.umd.js",
   "files": [
+    "dist",
     "src/components/Navbar.vue",
     "src/build-entry.js"
   ],
