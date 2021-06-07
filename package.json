@@ -1,6 +1,6 @@
 {
   "name": "vuetify-nav",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Navigation menu components for vuetify",
   "author": "Dr Takeyuki UEDA",
   "keywords": [
@@ -29,9 +29,7 @@
     "src/components/Navbar.vue",
     "src/build-entry.js"
   ],
-  "dependencies": {
-    "qrcode-of-this-site": "^1.0.5"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-eslint": "^3.10.0",
