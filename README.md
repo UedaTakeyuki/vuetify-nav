@@ -63,3 +63,4 @@ Github [issues](https://github.com/UedaTakeyuki/vuetify-nav/issues) are availabl
 
 ## History
 - 1.0.0  2021.05.25 first version.
+- 1.0.19 2021.06.07 fix: for node_module
