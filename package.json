@@ -1,8 +1,9 @@
 {
   "name": "vuetify-nav",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Navigation menu components for vuetify",
-  "author": "Dr Takeyuki UEDA",
+  "author": "Dr. Takeyuki UEDA",
+  "license": "MIT",
   "keywords": [
     "vue",
     "vuetify",
