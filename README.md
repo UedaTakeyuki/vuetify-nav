@@ -17,11 +17,11 @@ Provide Toolbar with Navigation drawer and drop down menu as follows:
 ## Install
 
 ```bash:
-npm install vue-faui-user-fe 
+npm install vuetify-nav 
 
 # or
 
-yarn add vue-faui-user-fe
+yarn add vuetify-nav 
 ```
 
 ## How to use
