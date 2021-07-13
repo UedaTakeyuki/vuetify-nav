@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <v-toolbar>
+    <v-app-bar>
       <v-app-bar-nav-icon class="grey--text" @click="drawer = !drawer"></v-app-bar-nav-icon>
 
       <slot name="title">
@@ -28,7 +28,7 @@
           </v-list>
         </v-menu>
       </slot>
-    </v-toolbar>
+    </v-app-bar>
 
     <v-navigation-drawer v-model="drawer" app class="primary">
       <v-list>
