@@ -13,9 +13,9 @@
 
         <!-- dropdown menu -->
         <v-menu offset-y>
-          <template v-slot:activator="{ on }">
+          <template v-slot:activator="{ props }">
           <!-- <v-btn text slot="activator"> -->
-          <v-btn text v-on="on">
+          <v-btn text v-bind="props">
             <v-icon left>expand_more</v-icon>
             <span>Menu</span>
           </v-btn>
