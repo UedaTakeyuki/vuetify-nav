@@ -9,3 +9,4 @@
 2022.12.18 fix: default export
 2022.12.20 separate Vue2, Vue3 branch
            fix: [Vue warn]: v-on with no argument 
+2022.12.21 add rollup-plugin-analyzer
