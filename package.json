@@ -11,11 +11,7 @@
       "require": "./dist/vuetify-nav.umd.js"
     }
   },
-<<<<<<< HEAD
   "version": "3.0.4",
-=======
-  "version": "3.0.2",
->>>>>>> bed122b9a5b626ff9d2d10420d83023d8edc74c3
   "type": "module",
   "scripts": {
     "dev": "vite",
