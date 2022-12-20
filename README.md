@@ -66,3 +66,5 @@ Github [issues](https://github.com/UedaTakeyuki/vuetify-nav/issues) are availabl
 - 1.0.19 2021.06.07 fix: for node_module
 - 1.1.1  2021.06.23 decrease package size
 - 1.2.1  2021.07.13 change to v-app-bar from v-tool-bar
+- 2.0.1  2022.12.20 for Vue2
+- 3.0.1  2022.12.20 for Vue3
