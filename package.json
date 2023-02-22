@@ -19,7 +19,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "qrcode-of-this-site": "^3.0.1",
+    "qrcode-of-this-site2": "^1.0.13",
     "vue": "^3.2.45",
     "vuetify": "^3.0.5"
   },
