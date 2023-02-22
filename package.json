@@ -30,7 +30,7 @@
     "src/build-entry.js"
   ],
   "dependencies": {
-    "qrcode-of-this-site": "^1.0.5"
+    "qrcode-of-this-site2": "^1.0.13"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
