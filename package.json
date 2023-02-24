@@ -1,6 +1,6 @@
 {
   "name": "vuetify-nav",
-  "version": "2.0.2",
+  "version": "2.0.5",
   "description": "Navigation menu components for vuetify",
   "author": "Dr. Takeyuki UEDA",
   "license": "MIT",
@@ -30,7 +30,8 @@
     "src/build-entry.js"
   ],
   "dependencies": {
-    "qrcode-of-this-site2": "^1.0.13"
+    "qrcode-of-this-site2": "^1.0.13",
+    "vuetify": "2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
@@ -42,7 +43,7 @@
     "sass": "^1.17.4",
     "sass-loader": "^7.1.0",
     "vue-cli-plugin-vuetify": "^0.6.3",
-    "vue-template-compiler": "^2.6.10",
+    "vue-template-compiler": "2.7.14",
     "vuetify-loader": "^1.2.2"
   },
   "eslintConfig": {
