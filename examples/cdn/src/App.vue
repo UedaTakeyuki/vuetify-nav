@@ -18,5 +18,8 @@ export default {
   data: () => ({
     //
   }),
+  mounted(){
+    console.log("window", window)
+  }
 };
 </script>
