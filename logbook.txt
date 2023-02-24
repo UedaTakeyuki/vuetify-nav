@@ -10,3 +10,4 @@
 2022.12.20 separate Vue2, Vue3 branch
 
 2023.02.22 change to use qrcode-of-this-site2
+2023.02.24 v2.0.5: example
