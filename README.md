@@ -15,6 +15,7 @@ Provide Toolbar with Navigation drawer and drop down menu as follows:
 
 
 ## Install
+By npm
 
 ```bash:
 npm install vuetify-nav 
@@ -23,6 +24,9 @@ npm install vuetify-nav
 
 yarn add vuetify-nav 
 ```
+
+Or CDN.   
+For more detail, refer [wiki](https://github.com/UedaTakeyuki/vuetify-nav/wiki/Install).
 
 ## How to use
 Just set ``<Navbar/>`` component to your ``App.vue`` file as follows:
@@ -60,6 +64,10 @@ Github [issues](https://github.com/UedaTakeyuki/vuetify-nav/issues) are availabl
 
 ## Author
 [Dr. Takeyuki UEDA](https://atelierueda.uedasoft.com/)
+
+## Version
+- vuetify-nav@2: for Vue2
+- vuetify-nav@3: for Vue3
 
 ## History
 - 1.0.0  2021.05.25 first version.
