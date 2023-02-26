@@ -8,10 +8,10 @@
   "exports": {
     ".": {
       "import": "./dist/vuetify-nav.es.js",
-      "require": "./dist/vuetify-nav.umdit.js"
+      "require": "./dist/vuetify-nav.umd.js"
     }
   },
-  "version": "3.0.5",
+  "version": "3.0.6",
   "type": "module",
   "scripts": {
     "dev": "vite",
