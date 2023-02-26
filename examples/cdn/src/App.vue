@@ -20,5 +20,8 @@ export default {
       { icon: 'info', text: 'About', route: '/about'},
     ]
   }),
+  mounted(){
+    console.log("window",window)
+  }
 };
 </script>
