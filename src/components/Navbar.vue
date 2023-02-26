@@ -49,7 +49,7 @@
 
 
 <script>
-import {QRcode} from 'qrcode-of-this-site'
+import {QRcode} from 'qrcode-of-this-site2'
 //import {AccountRoutes, PurchaseRoutes} from 'vue-faui-user-fe/'
 export default {
   props: {
