@@ -1,4 +1,4 @@
-# 2023.03.12: Deprecated. The successor is [vuetify-nav2](https://www.npmjs.com/package/vuetify-nav2) for Vue2, for Vue3 now under planning.
+# 2023.03.12: Deprecated. The successors are [vuetify-nav2](https://www.npmjs.com/package/vuetify-nav2) for Vue2, [vuetify-nav3](https://www.npmjs.com/package/vuetify-nav3) for Vue3.
 
 # Out-of-the-box Vuetify navigation menu component, with Toolbar, Navigation Drawers, Menus, and QR code
 
