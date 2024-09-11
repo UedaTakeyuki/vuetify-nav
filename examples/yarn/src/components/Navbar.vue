@@ -1,7 +1,7 @@
 <template>
   <nav>
     <v-app-bar>
-      <v-app-bar-nav-icon block class="grey--text" @click="drawer = !drawer"></v-app-bar-nav-icon>
+      <v-app-bar-nav-icon class="grey--text" @click="drawer = !drawer"></v-app-bar-nav-icon>
 
       <slot name="title">
         <v-toolbar-title class="grey--text">
@@ -49,8 +49,7 @@
 
 
 <script>
-import {QRcode} from 'qrcode-of-this-site'
-//import {AccountRoutes, PurchaseRoutes} from 'vue-faui-user-fe/'
+import {QRcode} from 'qrcode-of-this-site2'
 export default {
   props: {
     titleStr: String,
