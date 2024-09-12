@@ -49,7 +49,7 @@
 
 
 <script>
-import {QRcode} from 'qrcode-of-this-site2'
+import {QRcode} from 'qrcode-of-this-site'
 export default {
   props: {
     titleStr: String,

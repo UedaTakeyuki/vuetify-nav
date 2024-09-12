@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-import { Navbar } from 'vuetify-nav'
+import { Navbar } from '../../../src/components/build-entry.js'
 const links = [
       { icon: 'home', text: 'Home', route: '/'},
     ]
